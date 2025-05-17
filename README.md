@@ -1,4 +1,4 @@
-# Snapchat Snap Automation
+# VM Snapscore Automation
 Send a pre-specified number of snaps in a given interval to a single recipient 
 (*multi-person snaps coming in the future*).
 
